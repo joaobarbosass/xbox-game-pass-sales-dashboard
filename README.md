@@ -1,7 +1,7 @@
 📊 Projeto – Xbox Game Pass Sales Dashboard
 -
 📌 Descrição
-
+-
 Este projeto tem como objetivo apresentar, por meio de uma dashboard interativa, uma análise das vendas e dos planos oferecidos pelo Xbox Game Pass.
 A dashboard foi desenvolvida com foco em organização, clareza visual e apoio à tomada de decisão, permitindo a análise de indicadores relevantes de forma intuitiva.
 
